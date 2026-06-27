@@ -67,7 +67,7 @@ Browse the clean, refactored nodes of my security environments:
       <a href="https://github.com/Friendly-user0/Huntn">
         <h4>🛰️ HUNTn Framework</h4>
       </a>
-      <p>Modular, high-velocity attack surface mapping tool. Orchestrates 8 execution stages from Passive OSINT to custom regex secret extraction within 30 minutes.</p>
+      <p>Attack surface Intelligence mapping tool. Orchestrates 8 execution stages from Passive OSINT to Vulnerability Scanning.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Friendly-user0/Malware-Development">
